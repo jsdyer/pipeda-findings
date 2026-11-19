@@ -35,9 +35,12 @@
         }
       },
       {
-        "label": "Latest publication",
+        "label": "Publication dates",
         "url": "https://coolcode.ca/pipeda-findings/data/index.json",
         "path": [
+          "earliest"
+        ],
+        "end_path": [
           "latest"
         ]
       }
