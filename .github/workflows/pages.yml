@@ -16,6 +16,7 @@ jobs:
       contents: write
     outputs:
       publish: ${{ steps.identity.outputs.publish }}
+      edition: ${{ steps.edition.outputs.sha }}
     steps:
       - uses: actions/checkout@v7
         with:
@@ -65,6 +66,9 @@ jobs:
             git commit -m 'Refresh verified source edition'
             git push origin HEAD:main
           fi
+      - name: Identify the tested edition
+        id: edition
+        run: echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
       - name: Save browser screenshots
         if: always()
         uses: actions/upload-artifact@v4
@@ -93,11 +97,26 @@ jobs:
       group: github-pages
       cancel-in-progress: false
     permissions:
+      contents: read
       pages: write
       id-token: write
     environment:
       name: github-pages
       url: ${{ steps.publish.outputs.page_url }}
     steps:
+      - name: Verify the current main edition after entering the deployment queue
+        id: current
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EDITION: ${{ needs.build.outputs.edition }}
+        run: |
+          latest=$(gh api "repos/$GITHUB_REPOSITORY/git/ref/heads/main" --jq .object.sha)
+          if [ "$EDITION" = "$latest" ]; then
+            echo "publish=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "publish=false" >> "$GITHUB_OUTPUT"
+            echo "A newer main edition supersedes this build."
+          fi
       - uses: actions/deploy-pages@v4
+        if: steps.current.outputs.publish == 'true'
         id: publish
