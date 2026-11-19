@@ -1,16 +1,46 @@
 {
-  "id": "coolcode-tool-template",
-  "title": "CoolCode Tool Starter",
-  "description": "A browser-only example that trims lines and removes exact duplicates.",
-  "category": "security",
-  "tags": ["text", "lines", "duplicates"],
-  "icon": "scan-search",
-  "url": "/coolcode-tool-template/",
-  "source": "https://github.com/jsdyer/coolcode-tool-template",
+  "id": "pipeda-findings",
+  "title": "PIPEDA Findings",
+  "description": "Search published Canadian privacy investigations, compare issue-level findings and save citations to the original records.",
+  "category": "explorers",
+  "tags": [
+    "privacy",
+    "complaints",
+    "PIPEDA",
+    "access",
+    "consent",
+    "retention"
+  ],
+  "icon": "gavel",
+  "url": "/pipeda-findings/",
+  "source": "https://github.com/jsdyer/pipeda-findings",
   "hosting": "project",
   "access": "browser",
   "data_info": {
-    "mode": "local",
-    "detail": "The browser reads the text you paste and compares its lines."
+    "mode": "snapshot",
+    "detail": "The federal Privacy Commissioner’s business investigations catalogue supplies publication dates, document types and original decisions.",
+    "cadence": "Weekly",
+    "probes": [
+      {
+        "label": "Data retrieved",
+        "url": "https://coolcode.ca/pipeda-findings/data/index.json",
+        "path": [
+          "retrieved"
+        ],
+        "count_at": {
+          "path": [
+            "count"
+          ],
+          "unit": "published records"
+        }
+      },
+      {
+        "label": "Latest publication",
+        "url": "https://coolcode.ca/pipeda-findings/data/index.json",
+        "path": [
+          "latest"
+        ]
+      }
+    ]
   }
 }

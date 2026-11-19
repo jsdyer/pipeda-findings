@@ -1,21 +1,8 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { cleanLines } from '../web/model.mjs';
-test('trims, removes blanks and preserves first-seen order', () => {
-  assert.deepEqual(cleanLines('  Halifax\nLangley\nHalifax\n\nVancouver  '), {
-    text: 'Halifax\nLangley\nVancouver', count: 3, removed: 1,
-  });
+import {search,citation} from '../web/model.mjs';
+test('an outcome belongs to its reviewed issue and a missing annotation stays searchable',()=>{
+ const rows=[{title:'Access to records',id:'2026-001',kind:'Finding',published:'2026-01-04',url:'https://www.priv.gc.ca/'},{title:'Unannotated entry',id:'',kind:'Letter',published:'2026-01-06',url:'https://www.priv.gc.ca/'}];
+ const a={'2026-001':{org:'Respondent',issues:[['Timing','Resolved','Timing issue']]}};
+ assert.equal(search(rows,a,{outcome:'Resolved'}).length,1);assert.equal(search(rows,a,{q:'unannotated'}).length,1);assert(citation(rows[0]).includes('2026-001'));
 });
-test('supports Windows and old Mac line endings', () => {
-  assert.equal(cleanLines('a\r\nb\ra').text, 'a\nb');
-});
-test('empty text and whitespace produce an empty result', () => {
-  assert.deepEqual(cleanLines(' \n\t'), { text: '', count: 0, removed: 0 });
-});
-test('preserves case and Unicode', () => {
-  assert.equal(cleanLines('Québec\nquébec\n東京\nQuébec').text, 'Québec\nquébec\n東京');
-});
-test('treats markup as ordinary text', () => {
-  assert.equal(cleanLines('<script>alert(1)</script>\n<script>alert(1)</script>').text, '<script>alert(1)</script>');
-});
-test('rejects non-text input', () => { assert.throws(() => cleanLines(null), TypeError); });

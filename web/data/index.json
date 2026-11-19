@@ -1,0 +1,1393 @@
+{
+ "retrieved": "2026-11-19",
+ "count": 173,
+ "latest": "2026-10-26",
+ "earliest": "2001-04-20",
+ "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/",
+ "records": [
+  {
+   "title": "Compliance Letter to the Office of the Privacy Commissioner of Canada (“OPC”) by Loblaw Companies Limited (“Loblaw”)",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/2026-loblaw-cl/",
+   "published": "2026-10-26",
+   "kind": "Compliance letter",
+   "findingDate": "2026-10-21",
+   "id": ""
+  },
+  {
+   "title": "Compliance Letter to the Office of the Privacy Commissioner of Canada (“OPC”) By WestJet, an Alberta Partnership (“WestJet”)",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/2026-westjet-cl/",
+   "published": "2026-07-14",
+   "kind": "Compliance letter",
+   "findingDate": "",
+   "id": ""
+  },
+  {
+   "title": "Commissioner-initiated complaints concerning X Corp.’s and X.AI LLC’s compliance with PIPEDA",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/pipeda-2026-004/",
+   "published": "2026-06-11",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2026-06-11",
+   "id": "2026-004"
+  },
+  {
+   "title": "Investigation into Bell’s compliance with PIPEDA when responding to an access request for personal information",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/pipeda-2026-003/",
+   "published": "2026-06-04",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2026-01-09",
+   "id": "2026-003"
+  },
+  {
+   "title": "Investigation into a swimming pool’s compliance with consent requirements under the Personal Information Protection and Electronic Documents Act",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2025/pipeda-2025-005/",
+   "published": "2026-06-04",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2025-11-25",
+   "id": "2025-005"
+  },
+  {
+   "title": "Overview of the Joint Investigation of OpenAI OpCo, LLC",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/pipeda-2026-002-overview/",
+   "published": "2026-05-06",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2026-05-06",
+   "id": "2026-002"
+  },
+  {
+   "title": "Joint Investigation of OpenAI OpCo, LLC",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/pipeda-2026-002/",
+   "published": "2026-05-06",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2026-05-06",
+   "id": "2026-002"
+  },
+  {
+   "title": "Compliance Letter to the Office of the Privacy Commissioner of Canada (“OPC”) By Nova Scotia Power",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/2026-ns-power-ca/",
+   "published": "2026-03-25",
+   "kind": "Compliance letter",
+   "findingDate": "",
+   "id": ""
+  },
+  {
+   "title": "Compliance agreement between the Privacy Commissioner of Canada and the World Anti-Doping Agency",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/2026-wada-ca/",
+   "published": "2026-03-17",
+   "kind": "Compliance agreement",
+   "findingDate": "",
+   "id": ""
+  },
+  {
+   "title": "Investigation into the personal information retention practices of Loblaw for the PC Optimum Loyalty Program",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/pipeda-2026-001/",
+   "published": "2026-03-05",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2026-03-05",
+   "id": "2026-001"
+  },
+  {
+   "title": "Investigation into the privacy practices of Staples Canada ULC related to electronic devices to be resold as part of its Openbox program",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2025/pipeda-2025-004/",
+   "published": "2026-01-13",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2025-12-01",
+   "id": "2025-004"
+  },
+  {
+   "title": "Joint investigation of TikTok Pte. Ltd. by the Office of the Privacy Commissioner of Canada, the Commission d’accès à l’information du Québec, the Office of the Information and Privacy Commissioner for British Columbia, and the Office of the Information and Privacy Commissioner of Alberta",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2025/pipeda-2025-003/",
+   "published": "2025-09-23",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2025-09-23",
+   "id": "2025-003"
+  },
+  {
+   "title": "Investigation and recommendations concerning Google search engine service’s compliance with its obligations under PIPEDA",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2025/pipeda-2025-002/",
+   "published": "2025-08-27",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2025-08-27",
+   "id": "2025-002"
+  },
+  {
+   "title": "Joint investigation into a data breach at 23andMe by the Privacy Commissioner of Canada and the UK Information Commissioner",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2025/pipeda-2025-001/",
+   "published": "2025-06-25",
+   "kind": "PIPEDA findings",
+   "findingDate": "2025-06-20",
+   "id": "2025-001"
+  },
+  {
+   "title": "Investigation into Brinks Home",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2024/pipeda-2024-002/",
+   "published": "2024-06-06",
+   "kind": "PIPEDA findings",
+   "findingDate": "2024-03-28",
+   "id": "2024-002"
+  },
+  {
+   "title": "Investigation into Aylo (formerly MindGeek)’s Compliance with PIPEDA",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2024/pipeda-2024-001/",
+   "published": "2024-02-29",
+   "kind": "PIPEDA findings",
+   "findingDate": "",
+   "id": "2024-001"
+  },
+  {
+   "title": "Investigation into Agronomy’s privacy practices related to safeguards, accountability valid consent for the collection and use of personal information",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2023/pipeda-2023-002/",
+   "published": "2023-09-19",
+   "kind": "PIPEDA findings",
+   "findingDate": "2023-07-31",
+   "id": "2023-002"
+  },
+  {
+   "title": "Opt-in consent required for a donor list trading program",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2021/pipeda-2021-009/",
+   "published": "2023-09-19",
+   "kind": "PIPEDA findings",
+   "findingDate": "2021-03-30",
+   "id": "2021-009"
+  },
+  {
+   "title": "Investigation into Home Depot of Canada Inc.’s compliance with PIPEDA",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2023/pipeda-2023-001/",
+   "published": "2023-01-26",
+   "kind": "PIPEDA findings",
+   "findingDate": "2023-01-26",
+   "id": "2023-001"
+  },
+  {
+   "title": "Investigation into Trimac’s use of an audio and video surveillance device in its truck cabins",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2022/pipeda-2022-006/",
+   "published": "2022-09-29",
+   "kind": "PIPEDA findings",
+   "findingDate": "2022-07-27",
+   "id": "2022-006"
+  },
+  {
+   "title": "Hotel chain discovers breach of customer database following acquisition of a competitor",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2022/pipeda-2022-005/",
+   "published": "2022-09-29",
+   "kind": "PIPEDA findings",
+   "findingDate": "2022-07-15",
+   "id": "2022-005"
+  },
+  {
+   "title": "Investigation into MGM breach highlights how to assess risk, and need for timely assessment",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2022/pipeda-2022-004/",
+   "published": "2022-09-29",
+   "kind": "PIPEDA findings",
+   "findingDate": "2022-05-19",
+   "id": "2022-004"
+  },
+  {
+   "title": "Telecommunications firm failed to obtain appropriate consent for voiceprint authentication program",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2022/pipeda-2022-003/",
+   "published": "2022-09-29",
+   "kind": "PIPEDA findings",
+   "findingDate": "2022-03-30",
+   "id": "2022-003"
+  },
+  {
+   "title": "Transportation company's constant surveillance of drivers is more intrusive than necessary",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2021/pipeda-2021-008/",
+   "published": "2022-09-29",
+   "kind": "PIPEDA findings",
+   "findingDate": "2021-03-22",
+   "id": "2021-008"
+  },
+  {
+   "title": "Joint investigation into location tracking by the Tim Hortons App",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2022/pipeda-2022-001/",
+   "published": "2022-06-01",
+   "kind": "PIPEDA findings",
+   "findingDate": "2022-06-01",
+   "id": "2022-001"
+  },
+  {
+   "title": "Biron Health Group has ceased sending promotional emails to travellers arriving in Canada who undergo COVID-19 testing",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2022/pipeda-2022-002/",
+   "published": "2022-05-10",
+   "kind": "PIPEDA findings",
+   "findingDate": "2022-05-10",
+   "id": "2022-002"
+  },
+  {
+   "title": "Computer services company accesses customer’s laptop remotely during help desk call without seeking customer’s express consent",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2021/pipeda-2021-007/",
+   "published": "2021-12-09",
+   "kind": "PIPEDA findings",
+   "findingDate": "2021-03-24",
+   "id": "2021-007"
+  },
+  {
+   "title": "A short-term lender collects online banking credentials in the course of payday loan applications",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2021/pipeda-2021-006/",
+   "published": "2021-12-09",
+   "kind": "PIPEDA findings",
+   "findingDate": "2021-03-12",
+   "id": "2021-006"
+  },
+  {
+   "title": "Staying signed in by default to email services poses serious privacy concerns for users accessing their email on a public or shared computer",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2021/pipeda-2021-005/",
+   "published": "2021-12-09",
+   "kind": "PIPEDA findings",
+   "findingDate": "2021-03-15",
+   "id": "2021-005"
+  },
+  {
+   "title": "Company’s employees bypassed authentication protocols allowing fraudsters to repeatedly access customer’s account",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2021/pipeda-2021-004/",
+   "published": "2021-12-09",
+   "kind": "PIPEDA findings",
+   "findingDate": "2021-03-30",
+   "id": "2021-004"
+  },
+  {
+   "title": "Security deficiencies at BMO lead to large-scale breach",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2021/pipeda-2021-003/",
+   "published": "2021-12-09",
+   "kind": "PIPEDA findings",
+   "findingDate": "2021-03-30",
+   "id": "2021-003"
+  },
+  {
+   "title": "Investigation into CoreFour Inc.’s compliance with PIPEDA",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2021/pipeda-2021-002/",
+   "published": "2021-05-20",
+   "kind": "PIPEDA findings",
+   "findingDate": "2021-03-29",
+   "id": "2021-002"
+  },
+  {
+   "title": "Joint investigation of Clearview AI, Inc. by the Office of the Privacy Commissioner of Canada, the Commission d’accès à l’information du Québec, the Information and Privacy Commissioner for British Columbia, and the Information Privacy Commissioner of Alberta",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2021/pipeda-2021-001/",
+   "published": "2021-02-03",
+   "kind": "PIPEDA findings",
+   "findingDate": "2021-02-02",
+   "id": "2021-001"
+  },
+  {
+   "title": "Investigation into Desjardins’ compliance with PIPEDA following a breach of personal information between 2017 and 2019",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2020/pipeda-2020-005/",
+   "published": "2020-12-14",
+   "kind": "PIPEDA findings",
+   "findingDate": "2020-12-14",
+   "id": "2020-005"
+  },
+  {
+   "title": "Joint investigation of the Cadillac Fairview Corporation Limited by the Privacy Commissioner of Canada, the Information and Privacy Commissioner of Alberta, and the Information and Privacy Commissioner for British Columbia",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2020/pipeda-2020-004/",
+   "published": "2020-10-29",
+   "kind": "PIPEDA findings",
+   "findingDate": "2020-10-28",
+   "id": "2020-004"
+  },
+  {
+   "title": "Dell improves security and complaint handling practices following breaches and OPC Investigation",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2020/pipeda-2020-003/",
+   "published": "2020-10-08",
+   "kind": "PIPEDA findings",
+   "findingDate": "2020-07-09",
+   "id": "2020-003"
+  },
+  {
+   "title": "Health practitioner ratings site ceases charging for rating takedowns, a PIPEDA “no-go-zone”",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2020/pipeda-2020-002/",
+   "published": "2020-10-08",
+   "kind": "PIPEDA findings",
+   "findingDate": "2020-06-30",
+   "id": "2020-002"
+  },
+  {
+   "title": "Bank ensures openness and comparable protection for personal information transferred to third party",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2020/pipeda-2020-001/",
+   "published": "2020-08-04",
+   "kind": "PIPEDA findings",
+   "findingDate": "2020-08-04",
+   "id": "2020-001"
+  },
+  {
+   "title": "Financial institution discloses too much information in response to production order",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2017/pipeda-2017-012/",
+   "published": "2020-03-04",
+   "kind": "PIPEDA findings",
+   "findingDate": "2017-08-29",
+   "id": "2017-012"
+  },
+  {
+   "title": "Company’s disclosure of information about a debt owed is not covered under exemption to consent",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2016/pipeda-2016-013/",
+   "published": "2020-03-04",
+   "kind": "PIPEDA findings",
+   "findingDate": "2016-12-29",
+   "id": "2016-013"
+  },
+  {
+   "title": "Online marketplace needs consent from members before contacting them to join advocacy network",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2018/pipeda-2018-007/",
+   "published": "2019-12-23",
+   "kind": "PIPEDA findings",
+   "findingDate": "2018-01-09",
+   "id": "2018-007"
+  },
+  {
+   "title": "Telecom company responsible for erroneous debt collection calls",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2015/pipeda-2015-021/",
+   "published": "2019-12-23",
+   "kind": "PIPEDA findings",
+   "findingDate": "2015-12-18",
+   "id": "2015-021"
+  },
+  {
+   "title": "Hotel chain alerts its clients about “special offer” telephone scam",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2015/pipeda-2015-020/",
+   "published": "2019-12-23",
+   "kind": "PIPEDA findings",
+   "findingDate": "2015-03-12",
+   "id": "2015-020"
+  },
+  {
+   "title": "OPC complaint prompts telecom’s fraud investigation",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2015/pipeda-2015-019/",
+   "published": "2019-12-23",
+   "kind": "PIPEDA findings",
+   "findingDate": "2015-07-22",
+   "id": "2015-019"
+  },
+  {
+   "title": "Financial institution originally misuses confidential commercial information exemption to withhold personal information",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2017/pipeda-2017-011/",
+   "published": "2019-12-19",
+   "kind": "PIPEDA findings",
+   "findingDate": "2017-03-31",
+   "id": "2017-011"
+  },
+  {
+   "title": "Reasons for retaining customer credit card data explained",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2017/pipeda-2017-010/",
+   "published": "2019-12-19",
+   "kind": "PIPEDA findings",
+   "findingDate": "2017-12-27",
+   "id": "2017-010"
+  },
+  {
+   "title": "Videographer posts client’s wedding video on social media without consent",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2014/pipeda-2014-020/",
+   "published": "2019-12-19",
+   "kind": "PIPEDA findings",
+   "findingDate": "2014-05-22",
+   "id": "2014-020"
+  },
+  {
+   "title": "411Numbers ceases practice of removing information for a fee",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2019/pipeda-2019-005/",
+   "published": "2019-12-10",
+   "kind": "PIPEDA findings",
+   "findingDate": "2019-03-25",
+   "id": "2019-005"
+  },
+  {
+   "title": "Directory company lacked consent to publish complainant's personal information",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2019/pipeda-2019-006/",
+   "published": "2019-12-10",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2019-03-28",
+   "id": "2019-006"
+  },
+  {
+   "title": "Credit reporting agency is authorized to rely on exemption to consent in disclosing credit information to Statistics Canada",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2019/pipeda-2019-007/",
+   "published": "2019-12-10",
+   "kind": "PIPEDA findings",
+   "findingDate": "2019-12-09",
+   "id": "2019-007"
+  },
+  {
+   "title": "Breach of the World Anti-Doping database",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2018/pipeda-2018-006/",
+   "published": "2019-12-10",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2018-02-07",
+   "id": "2018-006"
+  },
+  {
+   "title": "Joint investigation of AggregateIQ Data Services Ltd. by the Privacy Commissioner of Canada and the Information and Privacy Commissioner for British Columbia",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2019/pipeda-2019-004/",
+   "published": "2019-11-26",
+   "kind": "PIPEDA findings",
+   "findingDate": "2019-11-26",
+   "id": "2019-004"
+  },
+  {
+   "title": "Investigation into authentication and transfer practices used during Loblaw gift card offering",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2019/pipeda-2019-003/",
+   "published": "2019-10-16",
+   "kind": "PIPEDA findings",
+   "findingDate": "2019-10-16",
+   "id": "2019-003"
+  },
+  {
+   "title": "Joint investigation of Facebook, Inc. by the Privacy Commissioner of Canada and the Information and Privacy Commissioner for British Columbia",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2019/pipeda-2019-002/",
+   "published": "2019-04-25",
+   "kind": "PIPEDA findings",
+   "findingDate": "2019-04-25",
+   "id": "2019-002"
+  },
+  {
+   "title": "Investigation into Equifax Inc. and Equifax Canada Co.’s compliance with PIPEDA in light of the 2017 breach of personal information",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2019/pipeda-2019-001/",
+   "published": "2019-04-09",
+   "kind": "PIPEDA findings",
+   "findingDate": "2019-04-09",
+   "id": "2019-001"
+  },
+  {
+   "title": "Jet Airways says possibility of litigation allows it to refuse access to personal information",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2017/pipeda-2017-008/",
+   "published": "2018-09-27",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2017-08-17",
+   "id": "2017-008"
+  },
+  {
+   "title": "Airline relies on access exemption to refuse traveler’s access to their personal information",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2017/pipeda-2017-009/",
+   "published": "2018-09-27",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2017-11-02",
+   "id": "2017-009"
+  },
+  {
+   "title": "Microsoft to obtain opt-in consent, enhance transparency for Windows 10 privacy settings",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2018/pipeda-2018-004/",
+   "published": "2018-09-27",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2018-06-20",
+   "id": "2018-004"
+  },
+  {
+   "title": "Courier company discontinues practice of delivery to a neighbour",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2018/pipeda-2018-005/",
+   "published": "2018-09-27",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2018-03-29",
+   "id": "2018-005"
+  },
+  {
+   "title": "Facebook agrees to stop using non-users’ personal information in users’ address books",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2018/pipeda-2018-003/",
+   "published": "2018-09-27",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2018-05-24",
+   "id": "2018-003"
+  },
+  {
+   "title": "Company’s re-use of millions of Canadian Facebook user profiles violated privacy law",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2018/pipeda-2018-002/",
+   "published": "2018-07-18",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2018-06-12",
+   "id": "2018-002"
+  },
+  {
+   "title": "Bank agrees to cease performing credit checks on individuals who are no longer clients",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2017/er_03_170705/",
+   "published": "2018-04-17",
+   "kind": "Early resolved case summary",
+   "findingDate": "2017-07-05",
+   "id": "2017-003"
+  },
+  {
+   "title": "Operator of website that shamed debtors for profit takes down website after OPC takes the matter to Federal Court",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2017/pipeda-2017-007/",
+   "published": "2018-04-17",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2017-08-08",
+   "id": "2017-007"
+  },
+  {
+   "title": "Multiple breach incidents as a result of password reuse",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/incidents/2017/001_170426/",
+   "published": "2018-03-29",
+   "kind": "Incident case summary",
+   "findingDate": "2017-04-26",
+   "id": "2017-001"
+  },
+  {
+   "title": "Employee training a key factor in effectively satisfying customers’ requests about an organization’s personal information handling practices",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2015/er_07_150814/",
+   "published": "2018-03-29",
+   "kind": "Early resolved case summary",
+   "findingDate": "2015-08-14",
+   "id": "2015-07"
+  },
+  {
+   "title": "First Nation develops a privacy policy following allegations of lost doctor’s notes",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2016/er_03_160506/",
+   "published": "2018-03-29",
+   "kind": "Early resolution case summary",
+   "findingDate": "2016-05-06",
+   "id": "2016-03"
+  },
+  {
+   "title": "Insurance company required to delete individual’s personal information after individual withdraws consent",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2017/pipeda-2017-005/",
+   "published": "2018-03-29",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2017-02-10",
+   "id": "2017-005"
+  },
+  {
+   "title": "Using SIN for identity verification cannot be a condition of service",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2017/pipeda-2017-006/",
+   "published": "2018-03-29",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2017-12-20",
+   "id": "2017-006"
+  },
+  {
+   "title": "OPC discontinues additional complaints against Globe24h.com following investigation into same privacy issues",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/disc/2015/pipeda-2015-002/",
+   "published": "2018-03-23",
+   "kind": "Discontinued Case Summary",
+   "findingDate": "2015-07-28",
+   "id": "2015-002"
+  },
+  {
+   "title": "Manager snoops on employee’s personal bank account after employee calls in sick",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2015/er_06_150522/",
+   "published": "2018-03-23",
+   "kind": "Early resolved case summary",
+   "findingDate": "2015-05-22",
+   "id": "2015-06"
+  },
+  {
+   "title": "Access to personal information held by insurance company facilitated through the early resolution process",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2017/er_02_170827/",
+   "published": "2018-03-23",
+   "kind": "Early resolved case summary",
+   "findingDate": "2017-08-27",
+   "id": "2017-002"
+  },
+  {
+   "title": "Connected toy manufacturer improves safeguards to adequately protect children’s information",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2018/pipeda-2018-001/",
+   "published": "2018-01-08",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2018-01-08",
+   "id": "2018-001"
+  },
+  {
+   "title": "Organization’s technical glitch results in the disclosure of a client’s personal information to another client",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2016/er_02_160810/",
+   "published": "2017-12-20",
+   "kind": "Early resolved case summary",
+   "findingDate": "2016-08-10",
+   "id": "2016-02"
+  },
+  {
+   "title": "Consent provided extends to third-party doctor hired to evaluate accident insurance claim",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2017/pipeda-2017-004/",
+   "published": "2017-12-20",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2017-01-11",
+   "id": "2017-004"
+  },
+  {
+   "title": "Insurance company collected and used credit score for inappropriate purpose during auto insurance claims assessment process",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2017/pipeda-2017-003/",
+   "published": "2017-10-04",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2017-03-14",
+   "id": "2017-003"
+  },
+  {
+   "title": "Privacy obligations under PIPEDA apply to financial technology sector",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2017/er_01_170725/",
+   "published": "2017-09-22",
+   "kind": "Early resolved case summary",
+   "findingDate": "2017-07-25",
+   "id": "2017-001"
+  },
+  {
+   "title": "Drug activity history in property reports deemed not publicly available",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2017/pipeda-2017-001/",
+   "published": "2017-09-21",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2017-08-28",
+   "id": "2017-001"
+  },
+  {
+   "title": "Canadian adware developer Wajam Internet Technologies Inc. breaches multiple provisions of PIPEDA",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2017/pipeda-2017-002/",
+   "published": "2017-09-21",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2017-08-28",
+   "id": "2017-002"
+  },
+  {
+   "title": "Customer gets signed up for retailer credit card without his consent",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2016/pipeda-2016-012/",
+   "published": "2017-03-15",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2016-03-31",
+   "id": "2016-012"
+  },
+  {
+   "title": "Defending against a civil lawsuit not considered a commercial activity",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2016/pipeda-2016-011/",
+   "published": "2017-02-24",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2016-07-18",
+   "id": "2016-011"
+  },
+  {
+   "title": "Fraudster targets financial institution employees and then customers to obtain personal information",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/incidents/2016/013_160218/",
+   "published": "2017-02-24",
+   "kind": "Incident Summary",
+   "findingDate": "2016-02-18",
+   "id": "13"
+  },
+  {
+   "title": "Anti-virus service provider steps up safeguards after customer personal information fraudulently used by someone posing as an employee",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2015/er_05_150628/",
+   "published": "2017-02-24",
+   "kind": "Early resolved case summary",
+   "findingDate": "2015-06-28",
+   "id": "2015-05"
+  },
+  {
+   "title": "Access to personal information request revised to accommodate both requestor and organization",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2016/er_01_160923/",
+   "published": "2017-02-24",
+   "kind": "Early resolved case summary",
+   "findingDate": "2016-09-23",
+   "id": "2016-01"
+  },
+  {
+   "title": "Credit reporting agency takes remedial action after failing to maintain accurate records",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2016/pipeda-2016-010/",
+   "published": "2017-01-19",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2016-07-07",
+   "id": "2016-010"
+  },
+  {
+   "title": "Office building tenant reconsiders placement of video surveillance cameras",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2015/er_03_150121/",
+   "published": "2017-01-19",
+   "kind": "Early resolved case summary",
+   "findingDate": "2015-01-21",
+   "id": "2015-03"
+  },
+  {
+   "title": "Misidentification and lack of access to personal information leads to mistaken four-year debt pursuit",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2015/er_04_150801/",
+   "published": "2017-01-19",
+   "kind": "Early resolved case summary",
+   "findingDate": "2015-08-01",
+   "id": "2015-04"
+  },
+  {
+   "title": "Investigation into a telecommunications company’s response to an individual’s request for access to information about disclosures of her personal information to other parties",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2016/pipeda-2016-008/",
+   "published": "2016-11-10",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2016-07-14",
+   "id": "2016-008"
+  },
+  {
+   "title": "Trucking company inappropriately disclosed employee’s drug test results to workers’ compensation board",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2016/pipeda-2016-009/",
+   "published": "2016-11-10",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2016-03-10",
+   "id": "2016-009"
+  },
+  {
+   "title": "Break with security procedures exposes financial planner’s client to privacy breach",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/incidents/2016/012_160224/",
+   "published": "2016-11-10",
+   "kind": "Incident Summary",
+   "findingDate": "2016-02-24",
+   "id": "12"
+  },
+  {
+   "title": "An organization's privacy policy and procedures must be implemented effectively",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2016/pipeda-2016-007/",
+   "published": "2016-09-01",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2016-02-09",
+   "id": "2016-007"
+  },
+  {
+   "title": "An insurance company’s internal ombudsman office is not a “formal dispute resolution process” under PIPEDA",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2016/pipeda-2016-006/",
+   "published": "2016-08-25",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2016-02-12",
+   "id": "2016-006"
+  },
+  {
+   "title": "Joint investigation of Ashley Madison by the Privacy Commissioner of Canada and the Australian Privacy Commissioner/Acting Australian Information Commissioner",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2016/pipeda-2016-005/",
+   "published": "2016-08-23",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2016-08-22",
+   "id": "2016-005"
+  },
+  {
+   "title": "Pension and benefit provider agrees to revamp authentication and address-change procedures after misdirected mailings",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2015/pipeda-2015-014/",
+   "published": "2016-07-27",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2015-12-15",
+   "id": "2015-014"
+  },
+  {
+   "title": "Roofing company takes measures to ensure sub-contractors follow its privacy policy",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2015/pipeda-2015-015/",
+   "published": "2016-07-27",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2015-11-10",
+   "id": "2015-015"
+  },
+  {
+   "title": "Retailer shares customer’s in-store behaviour with the customer’s employer",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2016/pipeda-2016-004/",
+   "published": "2016-07-27",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2016-01-09",
+   "id": "2016-004"
+  },
+  {
+   "title": "Real estate management company responds fairly and reasonably to surveillance camera concerns",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/disc/2015/pipeda-2015-001/",
+   "published": "2016-07-27",
+   "kind": "Discontinued Case Summary",
+   "findingDate": "2015-12-02",
+   "id": "2015-001"
+  },
+  {
+   "title": "Financial institution reacts quickly to mass-mailing error",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/incidents/2016/011_160219/",
+   "published": "2016-07-27",
+   "kind": "Incident Summary",
+   "findingDate": "2016-02-19",
+   "id": "11"
+  },
+  {
+   "title": "Retailer takes remedial actions after employee inappropriately texted customer",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2015/er_02_151026/",
+   "published": "2016-06-20",
+   "kind": "Early resolved case summary",
+   "findingDate": "2015-10-26",
+   "id": "2015-02"
+  },
+  {
+   "title": "Property management company alters its rental application form to make clear that Social Insurance Number is optional",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2013/er_001_130425/",
+   "published": "2016-06-13",
+   "kind": "Early resolved case summary",
+   "findingDate": "2013-04-25",
+   "id": "2013-01"
+  },
+  {
+   "title": "Cable provider removes personal information posted online of customers with overdue accounts",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/incidents/2016/010_160125/",
+   "published": "2016-06-07",
+   "kind": "Incident Summary",
+   "findingDate": "2016-01-25",
+   "id": "10"
+  },
+  {
+   "title": "Investigation into the personal information handling practices of “Compu-Finder” (3510395 Canada Inc.)",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2016/pipeda-2016-003/",
+   "published": "2016-05-27",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2016-04-21",
+   "id": "2016-003"
+  },
+  {
+   "title": "Property management company agrees to scrap \"bad tenant list\"",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2016/pipeda-2016-002/",
+   "published": "2016-05-20",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2016-02-19",
+   "id": "2016-002"
+  },
+  {
+   "title": "Customer’s emails sent to her acquaintance following a telecom employee’s attempt to fix a problem with the customer’s email service",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2015/pipeda-2015-010/",
+   "published": "2016-03-21",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2015-07-06",
+   "id": "2015-010"
+  },
+  {
+   "title": "Bank improves its credit card account verification practices after challenge from customer",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2014/er_010_140220/",
+   "published": "2016-02-01",
+   "kind": "Early resolved case summary",
+   "findingDate": "2014-02-20",
+   "id": "10"
+  },
+  {
+   "title": "Store stops practice of posting pictures of suspected shoplifters",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2015/er_01_150709/",
+   "published": "2016-02-01",
+   "kind": "Early resolved case summary",
+   "findingDate": "2015-07-09",
+   "id": "2015-01"
+  },
+  {
+   "title": "Financial institution takes strong remedial measures after insufficient safeguards and unnecessary storage leaves sensitive data vulnerable to breach",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2015/pipeda-2015-007/",
+   "published": "2015-11-12",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2015-04-13",
+   "id": "2015-007"
+  },
+  {
+   "title": "Investment brokerage not over collecting personal information to open self-directed investment account",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2015/pipeda-2015-006/",
+   "published": "2015-11-10",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2015-04-23",
+   "id": "2015-006"
+  },
+  {
+   "title": "Equipment store ends practice of photocopying driver’s licences as a condition of renting equipment",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2014/er_009_141030/",
+   "published": "2015-10-05",
+   "kind": "Early resolved case summary",
+   "findingDate": "2014-10-30",
+   "id": "9"
+  },
+  {
+   "title": "Organization required to mask detailed personal-leave information available to other employees",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2014/pipeda-2014-014/",
+   "published": "2015-05-19",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2014-10-31",
+   "id": "2014-014"
+  },
+  {
+   "title": "Organization could reasonably assume customer's implied consent for disclosure in dispute resolution situation",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2014/pipeda-2014-013/",
+   "published": "2015-04-20",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2014-10-31",
+   "id": "2014-013"
+  },
+  {
+   "title": "Life insurance company employs best practices in responding to mass mailing error that risked exposing personal information",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/incidents/2014/005_140321/",
+   "published": "2015-03-31",
+   "kind": "Incident Summary",
+   "findingDate": "2014-03-21",
+   "id": "5"
+  },
+  {
+   "title": "Investment Firm Justified in its Collection of \"Know Your Client\" Information",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2014/pipeda-2014-012/",
+   "published": "2015-03-30",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2014-02-10",
+   "id": "2014-012"
+  },
+  {
+   "title": "Court procedures provided a more appropriate means to address access issues in ongoing litigation between complainant and retailer",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/disc/declined/2013/pipeda-2013-001/",
+   "published": "2014-12-19",
+   "kind": "Declined to Investigate Case Summary",
+   "findingDate": "2013-09-11",
+   "id": "2013-001"
+  },
+  {
+   "title": "Complaint discontinued on the basis of bad faith as complainant had released the retailer from liability",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/disc/2014/pipeda-2014-004/",
+   "published": "2014-12-11",
+   "kind": "Discontinued Case Summary",
+   "findingDate": "2014-10-21",
+   "id": "2014-004"
+  },
+  {
+   "title": "Apple called upon to be more open about its collection and use of information for downloads",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2014/pipeda-2014-007/",
+   "published": "2014-12-02",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2014-04-22",
+   "id": "2014-007"
+  },
+  {
+   "title": "Web posting that was removed by individual retained by Internet search engine",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2014/er_005_140123/",
+   "published": "2014-11-19",
+   "kind": "Early resolved case summary",
+   "findingDate": "2014-01-23",
+   "id": "5"
+  },
+  {
+   "title": "Apple called upon to provide greater clarity on its use and disclosure of unique device identifiers for targeted advertising",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2013/pipeda-2013-017/",
+   "published": "2014-09-03",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2013-06-28",
+   "id": ""
+  },
+  {
+   "title": "Online dating service used former customer’s personal information without consent and failed to provide him access to his personal information",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2013/pipeda-2013-014/",
+   "published": "2014-04-22",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2013-12-18",
+   "id": "2013-014"
+  },
+  {
+   "title": "Use of sensitive health information for targeting of Google ads raises privacy concerns",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2014/pipeda-2014-001/",
+   "published": "2014-01-15",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2014-01-14",
+   "id": "2014-001"
+  },
+  {
+   "title": "Beneficiary’s access to estate information is limited to his own personal information under PIPEDA",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2013/pipeda-2013-005/",
+   "published": "2013-11-18",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2013-10-02",
+   "id": "2013-005"
+  },
+  {
+   "title": "Telecommunications firm discloses individual’s personal information without consent when it merged two household accounts that shared an address",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2012/er_121031/",
+   "published": "2013-11-18",
+   "kind": "Early resolved case summary",
+   "findingDate": "2012-10-31",
+   "id": "2"
+  },
+  {
+   "title": "Bank misinformed client of purpose of requesting personal information for picking up credit card",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2013/pipeda-2013-002/",
+   "published": "2013-10-21",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2013-04-15",
+   "id": "2013-002"
+  },
+  {
+   "title": "Profiles on PositiveSingles.com dating website turn up on other affiliated dating websites",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2013/pipeda-2013-003/",
+   "published": "2013-10-21",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2013-07-11",
+   "id": "2013-003"
+  },
+  {
+   "title": "Telecommunications firm adopts additional accountability measures to ensure a consistent approach in handling access requests",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2012/pipeda-2012-010/",
+   "published": "2013-05-13",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2012-08-14",
+   "id": ""
+  },
+  {
+   "title": "Bank Disclosed Personal Information without Consent",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2009/pipeda-2009-024/",
+   "published": "2013-04-19",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2009-12-21",
+   "id": "2009-024"
+  },
+  {
+   "title": "Public opinion research firm must better inform survey respondents about their personal information use; refrain from collecting full birth dates",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2011/pipeda-2011-011/",
+   "published": "2013-04-09",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2011-06-30",
+   "id": "2011-011"
+  },
+  {
+   "title": "Weak authentication allowed imposter to hijack customer’s cell phone account",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2012/pipeda-2012-004/",
+   "published": "2012-12-13",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2012-08-22",
+   "id": ""
+  },
+  {
+   "title": "Dental benefit information available to parents with daughter’s consent (January 6, 2010)",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2010/s2010-001_100106/",
+   "published": "2010-04-18",
+   "kind": "Settled case summary",
+   "findingDate": "2010-01-06",
+   "id": "2010-001"
+  },
+  {
+   "title": "Complaint under PIPEDA against Accusearch Inc., doing business as Abika.com",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2009/2009_009_rep_0731/",
+   "published": "2009-07-31",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2009-07-27",
+   "id": "2009-009"
+  },
+  {
+   "title": "Report of Findings: CIPPIC v. Facebook Inc.",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2009/pipeda-2009-008/",
+   "published": "2009-07-22",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2009-07-16",
+   "id": "2009-008"
+  },
+  {
+   "title": "Department store revises process for collecting personal tax exemption information (February 5, 2007)",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2007/s29_070205/",
+   "published": "2008-09-17",
+   "kind": "Settled case summary",
+   "findingDate": "2007-02-05",
+   "id": "29"
+  },
+  {
+   "title": "Law School Admission Council Investigation",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2008/exec_080529/",
+   "published": "2008-06-02",
+   "kind": "PIPEDA Executive Summary",
+   "findingDate": "2008-05-29",
+   "id": "2008-389"
+  },
+  {
+   "title": "Backgrounder: Ticketmaster Investigation",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2008/bg_20080212/",
+   "published": "2008-04-18",
+   "kind": "PIPEDA Backgrounder",
+   "findingDate": "2008-02-12",
+   "id": "2008-388"
+  },
+  {
+   "title": "DVD-rental store revises membership application process (December 14, 2006)",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2006/s28_061214/",
+   "published": "2007-05-03",
+   "kind": "Settled case summary",
+   "findingDate": "2006-12-14",
+   "id": "28"
+  },
+  {
+   "title": "Solicitor’s lien insufficient grounds to deny access to personal information (November 15, 2007)",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2007/s30_071115/",
+   "published": "2007-05-03",
+   "kind": "Settled case summary",
+   "findingDate": "2007-11-15",
+   "id": "30"
+  },
+  {
+   "title": "Executive Summary: Privacy Commissioner of Canada v. SWIFT",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2007/swift_exec_070402/",
+   "published": "2007-04-02",
+   "kind": "PIPEDA Executive Summary",
+   "findingDate": "",
+   "id": "2007-365"
+  },
+  {
+   "title": "Privacy Commissioner of Canada v. SWIFT",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2007/swift_rep_070402/",
+   "published": "2007-04-02",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "",
+   "id": "2007-365"
+  },
+  {
+   "title": "Misdirected faxes",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/incidents/2006/003_061204/",
+   "published": "2007-02-08",
+   "kind": "Incident Summary",
+   "findingDate": "2006-12-04",
+   "id": "3"
+  },
+  {
+   "title": "Clinic discloses client information when trying to collect a debt (May 16, 2006)",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2006/s27_060516/",
+   "published": "2007-01-19",
+   "kind": "Settled case summary",
+   "findingDate": "2006-05-16",
+   "id": "27"
+  },
+  {
+   "title": "Condominium corporation learns that personal information consists of more than just contact information (March 6, 2006)",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2006/s20_060306/",
+   "published": "2006-12-14",
+   "kind": "Settled case summary",
+   "findingDate": "2006-03-06",
+   "id": "20"
+  },
+  {
+   "title": "Loyalty program inadvertently markets to child members (July 24, 2006)",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2006/s21_060724/",
+   "published": "2006-12-14",
+   "kind": "Settled case summary",
+   "findingDate": "2006-07-24",
+   "id": "21"
+  },
+  {
+   "title": "Counsellor/client miscommunication leads to distressing consequences (October 2, 2006)",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2006/s22_061002/",
+   "published": "2006-12-14",
+   "kind": "Settled case summary",
+   "findingDate": "2006-10-02",
+   "id": "22"
+  },
+  {
+   "title": "Caretaker reveals that tenant's cheque has bounced (June 12, 2006)",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2006/s23_060612/",
+   "published": "2006-12-14",
+   "kind": "Settled case summary",
+   "findingDate": "2006-06-12",
+   "id": "23"
+  },
+  {
+   "title": "Company revises privacy policy to clarify why it keeps personal information for a specific length of time, and designates privacy officer (July 21, 2006)",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2006/s24_060721/",
+   "published": "2006-12-14",
+   "kind": "Settled case summary",
+   "findingDate": "2006-07-21",
+   "id": "24"
+  },
+  {
+   "title": "Personal information on credit card receipts to be masked by 2007 (January 27, 2006)",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2006/s25_060127/",
+   "published": "2006-12-14",
+   "kind": "Settled case summary",
+   "findingDate": "2006-01-27",
+   "id": "25"
+  },
+  {
+   "title": "Department store's credit card application form appropriate (March 28, 2006)",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2006/s26_060328/",
+   "published": "2006-12-14",
+   "kind": "Settled case summary",
+   "findingDate": "2006-03-28",
+   "id": "26"
+  },
+  {
+   "title": "Supplementary identification required to obtain members? discount (December 16, 2005)",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2005/s17_051216/",
+   "published": "2006-09-07",
+   "kind": "Settled case summary",
+   "findingDate": "2005-12-16",
+   "id": "17"
+  },
+  {
+   "title": "Business learns that it must have a privacy policy available to the public (March 6, 2006)",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2006/s18_060306/",
+   "published": "2006-09-07",
+   "kind": "Settled case summary",
+   "findingDate": "2006-03-06",
+   "id": "18"
+  },
+  {
+   "title": "SIN not required when signing apartment lease (February 3, 2006)",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2006/s19_060203/",
+   "published": "2006-09-07",
+   "kind": "Settled case summary",
+   "findingDate": "2006-02-03",
+   "id": "19"
+  },
+  {
+   "title": "Personal information on receipts removed, information collected when goods returned is limited (November 21, 2005)",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2005/s16_051121/",
+   "published": "2006-02-13",
+   "kind": "Settled case summary",
+   "findingDate": "2005-11-21",
+   "id": "16"
+  },
+  {
+   "title": "Salesperson's hastiness results in unwanted credit card for customer",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2005/s15_050624/",
+   "published": "2005-11-21",
+   "kind": "Settled case summary",
+   "findingDate": "2005-06-24",
+   "id": "15"
+  },
+  {
+   "title": "Disclosure of personal information to estranged spouse",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2005/s14_050729/",
+   "published": "2005-10-19",
+   "kind": "Settled case summary",
+   "findingDate": "2005-07-29",
+   "id": "14"
+  },
+  {
+   "title": "Company clamps down on unsolicited e-mail practice",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2005/s13_050517/",
+   "published": "2005-07-14",
+   "kind": "Settled case summary",
+   "findingDate": "2005-05-17",
+   "id": "13"
+  },
+  {
+   "title": "Department store clarifies source of mail-out, and reviews opt-out policies and suppression mechanisms (November 2004)",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2004/s12_041116/",
+   "published": "2005-07-07",
+   "kind": "Settled case summary",
+   "findingDate": "2004-11-16",
+   "id": "12"
+  },
+  {
+   "title": "CIBC's privacy practices failed in cases of misdirected faxes",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/incidents/2005/050418_01/",
+   "published": "2005-04-18",
+   "kind": "Incident Summary",
+   "findingDate": "2005-04-18",
+   "id": "2"
+  },
+  {
+   "title": "Misdirected faxes containing health information end up in apartment managers' hands",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/incidents/2004/041221/",
+   "published": "2004-12-21",
+   "kind": "Incident Summary",
+   "findingDate": "2004-12-21",
+   "id": "1"
+  },
+  {
+   "title": "Access request ignored, but no personal information existed",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2004/er_040605/",
+   "published": "2004-11-24",
+   "kind": "Early resolved case summary",
+   "findingDate": "2004-06-05",
+   "id": "1"
+  },
+  {
+   "title": "Company eliminates excessive information from database",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2004/s_040227_02/",
+   "published": "2004-11-24",
+   "kind": "Settled case summary",
+   "findingDate": "2004-02-27",
+   "id": "7"
+  },
+  {
+   "title": "Company takes steps to become compliant with the Act",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2004/s_040615_02/",
+   "published": "2004-11-24",
+   "kind": "Settled case summary",
+   "findingDate": "2004-06-15",
+   "id": "8"
+  },
+  {
+   "title": "Trucking company prepares privacy policies and procedures and designates a privacy officer subsequent to settling complaint from former employee",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2004/s_040615/",
+   "published": "2004-11-24",
+   "kind": "Settled case summary",
+   "findingDate": "2004-06-15",
+   "id": "6"
+  },
+  {
+   "title": "Store implements changes following laptop lapse",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2004/s_040623/",
+   "published": "2004-11-24",
+   "kind": "Settled case summary",
+   "findingDate": "2004-06-23",
+   "id": "1"
+  },
+  {
+   "title": "Trucking Business Formulates and Implements Privacy Policy",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2004/s_040624_02/",
+   "published": "2004-11-24",
+   "kind": "Settled case summary",
+   "findingDate": "2004-06-24",
+   "id": "11"
+  },
+  {
+   "title": "Concerns result in improved language of consent",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2004/s_040624/",
+   "published": "2004-11-24",
+   "kind": "Settled case summary",
+   "findingDate": "2004-06-24",
+   "id": "3"
+  },
+  {
+   "title": "Windows reveal too much information",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2004/s_040706/",
+   "published": "2004-11-24",
+   "kind": "Settled case summary",
+   "findingDate": "2004-07-06",
+   "id": "9"
+  },
+  {
+   "title": "Pharmacy simplifies its consent policy and procedures",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2004/s_041026_02/",
+   "published": "2004-11-24",
+   "kind": "Settled case summary",
+   "findingDate": "2004-10-26",
+   "id": "2"
+  },
+  {
+   "title": "Credit check to open a personal deposit account",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2004/s_041101/",
+   "published": "2004-11-24",
+   "kind": "Settled case summary",
+   "findingDate": "2004-11-01",
+   "id": "5"
+  },
+  {
+   "title": "Company amends employee list it sends to union",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2004/s_041105/",
+   "published": "2004-11-24",
+   "kind": "Settled case summary",
+   "findingDate": "2004-11-05",
+   "id": "4"
+  },
+  {
+   "title": "Collection agency corrects inaccurate information",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2004/s_041115/",
+   "published": "2004-11-24",
+   "kind": "Settled case summary",
+   "findingDate": "2004-11-15",
+   "id": "10"
+  },
+  {
+   "title": "Alleged disclosure of personal information without consent for secondary marketing purposes by a bank",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2002/pipeda-2002-082/",
+   "published": "2002-10-16",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2002-10-16",
+   "id": "2002-82"
+  },
+  {
+   "title": "Alleged disclosure of personal information without consent for secondary marketing by two telecommunications companies",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2002/pipeda-2002-079/",
+   "published": "2002-10-16",
+   "kind": "PIPEDA Case Summary",
+   "findingDate": "2002-10-16",
+   "id": "2002-79"
+  },
+  {
+   "title": "Incident: Web site broadcasts cell phone conversations",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/incidents/2001/cf-dc_010917/",
+   "published": "2001-09-17",
+   "kind": "Incident Summary",
+   "findingDate": "2001-09-17",
+   "id": "2001-2"
+  },
+  {
+   "title": "Federal Privacy Commissioner says \"no\" to Street Surveillance Cameras",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2001/nt_010620/",
+   "published": "2001-06-15",
+   "kind": "Letter of finding",
+   "findingDate": "2001-06-15",
+   "id": ""
+  },
+  {
+   "title": "Commissioner's Findings - Transportation company collects and discloses passengers' personal information",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/incidents/2001/cf-dc_010420/",
+   "published": "2001-04-20",
+   "kind": "Incident Summary",
+   "findingDate": "2001-04-20",
+   "id": "2001-1"
+  }
+ ]
+}
