@@ -1,6 +1,6 @@
 {
- "retrieved": "2026-11-20",
- "count": 173,
+ "retrieved": "2026-11-27",
+ "count": 174,
  "latest": "2026-10-26",
  "earliest": "2001-04-20",
  "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/",
@@ -940,6 +940,14 @@
    "kind": "PIPEDA Report of Findings",
    "findingDate": "2013-06-28",
    "id": ""
+  },
+  {
+   "title": "Online service provider that suffered a breach had appropriate safeguards in place",
+   "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2014/pipeda-2014-004/",
+   "published": "2014-07-02",
+   "kind": "PIPEDA Report of Findings",
+   "findingDate": "2014-04-23",
+   "id": "2014-004"
   },
   {
    "title": "Online dating service used former customer’s personal information without consent and failed to provide him access to his personal information",
